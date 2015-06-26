@@ -1,0 +1,3 @@
+[submodule "invoik-http"]
+	path = invoik-http
+	url = git@github.com:alex-glv/invoik-http.git
