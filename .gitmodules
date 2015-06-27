@@ -1,3 +1,9 @@
 [submodule "invoik-http"]
 	path = invoik-http
 	url = git@github.com:alex-glv/invoik-http.git
+[submodule "kafka-docker"]
+	path = kafka-docker
+	url = https://github.com/wurstmeister/kafka-docker.git
+[submodule "invoik-emitter"]
+	path = invoik-emitter
+	url = git@github.com:alex-glv/invoik-emitter.git
